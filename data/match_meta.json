@@ -1,0 +1,139 @@
+{
+  "match_id": "syn-nww-see-001",
+  "competition": "Synthetic League (fictional)",
+  "venue": "Wonders Park, North West London (fictional)",
+  "seed": 2026,
+  "home": {
+    "id": "NWW",
+    "name": "North West Wonders",
+    "colour": "#6A1B9A",
+    "players": [
+      {
+        "number": 1,
+        "name": "Danny Okoro",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Jamal Bennett",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Callum Fitzgerald",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Kwame Asante-Ward",
+        "position": "CB"
+      },
+      {
+        "number": 3,
+        "name": "Reece Patel",
+        "position": "LB"
+      },
+      {
+        "number": 6,
+        "name": "Tyrone Mitchell",
+        "position": "DM"
+      },
+      {
+        "number": 8,
+        "name": "Harvey Okonjo",
+        "position": "CM"
+      },
+      {
+        "number": 10,
+        "name": "Kai Brennan",
+        "position": "AM"
+      },
+      {
+        "number": 7,
+        "name": "Darnell Hayes",
+        "position": "RW"
+      },
+      {
+        "number": 11,
+        "name": "Ollie Khan",
+        "position": "LW"
+      },
+      {
+        "number": 9,
+        "name": "Jaden Forbes",
+        "position": "ST"
+      }
+    ]
+  },
+  "away": {
+    "id": "SEE",
+    "name": "South East Eagles",
+    "colour": "#D4A017",
+    "players": [
+      {
+        "number": 1,
+        "name": "Charlie Hudson",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Femi Lawal",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Connor Murphy",
+        "position": "CB"
+      },
+      {
+        "number": 6,
+        "name": "Isaac Oduya",
+        "position": "CB"
+      },
+      {
+        "number": 3,
+        "name": "Ryan Chopra",
+        "position": "LB"
+      },
+      {
+        "number": 4,
+        "name": "Tunde Bakare",
+        "position": "DM"
+      },
+      {
+        "number": 8,
+        "name": "Freddie Walsh",
+        "position": "CM"
+      },
+      {
+        "number": 10,
+        "name": "Zain Hussain",
+        "position": "AM"
+      },
+      {
+        "number": 7,
+        "name": "Lewis Achampong",
+        "position": "RW"
+      },
+      {
+        "number": 11,
+        "name": "Jerome Clarke",
+        "position": "LW"
+      },
+      {
+        "number": 9,
+        "name": "Kayden Bryan",
+        "position": "ST"
+      }
+    ]
+  },
+  "pitch": {
+    "length_m": 105,
+    "width_m": 68
+  },
+  "final_score": {
+    "home": 2,
+    "away": 0
+  },
+  "note": "All teams, players and events are synthetic. No real match data is used."
+}
