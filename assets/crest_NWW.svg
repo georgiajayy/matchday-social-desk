@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 300" role="img" aria-label="North West Wonders crest">
+  <defs>
+    <clipPath id="nww-in"><path d="M31 29 H189 V118 C189 170 154 202 110 222 C66 202 31 170 31 118 Z"/></clipPath>
+    <linearGradient id="nww-sheen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".16"/><stop offset=".5" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M20 18 H200 V118 C200 178 160 214 110 236 C60 214 20 178 20 118 Z" fill="#1F6FE0"/>
+  <path d="M20 18 H200 V118 C200 178 160 214 110 236 C60 214 20 178 20 118 Z" fill="none" stroke="#123F86" stroke-width="2"/>
+  <path d="M31 29 H189 V118 C189 170 154 202 110 222 C66 202 31 170 31 118 Z" fill="#0B0B0D"/>
+  <g clip-path="url(#nww-in)">
+    <rect x="31" y="18" width="11" height="230" fill="#123F86"/><rect x="53" y="18" width="11" height="230" fill="#123F86"/><rect x="75" y="18" width="11" height="230" fill="#123F86"/><rect x="97" y="18" width="11" height="230" fill="#123F86"/><rect x="119" y="18" width="11" height="230" fill="#123F86"/><rect x="141" y="18" width="11" height="230" fill="#123F86"/><rect x="163" y="18" width="11" height="230" fill="#123F86"/><rect x="185" y="18" width="11" height="230" fill="#123F86"/>
+    <circle cx="110" cy="128" r="40" fill="#0B0B0D"/>
+    <circle cx="110" cy="128" r="38" fill="none" stroke="#1F6FE0" stroke-width="2"/>
+    <circle cx="110" cy="128" r="31" fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="1"/>
+    <polygon points="110,128 100.0,128.0 110.0,82.0" fill="#FFFFFF"/><polygon points="110,128 120.0,128.0 110.0,82.0" fill="#AEB8C8"/><polygon points="110,128 105.1,123.1 131.2,106.8" fill="#FFFFFF"/><polygon points="110,128 114.9,132.9 131.2,106.8" fill="#AEB8C8"/><polygon points="110,128 110.0,118.0 156.0,128.0" fill="#FFFFFF"/><polygon points="110,128 110.0,138.0 156.0,128.0" fill="#AEB8C8"/><polygon points="110,128 114.9,123.1 131.2,149.2" fill="#FFFFFF"/><polygon points="110,128 105.1,132.9 131.2,149.2" fill="#AEB8C8"/><polygon points="110,128 120.0,128.0 110.0,174.0" fill="#FFFFFF"/><polygon points="110,128 100.0,128.0 110.0,174.0" fill="#AEB8C8"/><polygon points="110,128 114.9,132.9 88.8,149.2" fill="#FFFFFF"/><polygon points="110,128 105.1,123.1 88.8,149.2" fill="#AEB8C8"/><polygon points="110,128 110.0,138.0 64.0,128.0" fill="#FFFFFF"/><polygon points="110,128 110.0,118.0 64.0,128.0" fill="#AEB8C8"/><polygon points="110,128 105.1,132.9 63.3,81.3" fill="#5AA2FF"/><polygon points="110,128 114.9,123.1 63.3,81.3" fill="#1F6FE0"/>
+    <circle cx="110" cy="128" r="5" fill="#1F6FE0" stroke="#0B0B0D" stroke-width="2"/>
+    <path d="M31 29 H189 V118 C189 170 154 202 110 222 C66 202 31 170 31 118 Z" fill="url(#nww-sheen)"/>
+  </g>
+  <path d="M31 29 H189 V118 C189 170 154 202 110 222 C66 202 31 170 31 118 Z" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-opacity=".8"/>
+  <!-- ribbon banner -->
+  <path d="M6 236 L28 226 L28 262 L6 272 L16 254 Z" fill="#123F86"/>
+  <path d="M214 236 L192 226 L192 262 L214 272 L204 254 Z" fill="#123F86"/>
+  <path d="M24 222 Q110 206 196 222 L196 260 Q110 244 24 260 Z" fill="#0B0B0D" stroke="#1F6FE0" stroke-width="3"/>
+  <path id="nww-arc" d="M36 248 Q110 232 184 248" fill="none"/>
+  <text font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="21" letter-spacing="1.5" fill="#ffffff">
+    <textPath href="#nww-arc" startOffset="50%" text-anchor="middle" textLength="142" lengthAdjust="spacingAndGlyphs">NORTH WEST WONDERS</textPath>
+  </text>
+</svg>

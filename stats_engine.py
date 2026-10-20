@@ -174,7 +174,9 @@ class MatchState:
             threat[t] = (self._window_sum(t, "xg", WINDOW_S) * 10
                          + self._window_sum(t, "entry", WINDOW_S) * 1.0
                          + self._window_sum(t, "pass_ok", WINDOW_S) * 0.05)
-        total = sum(threat.values()) or 1
+        total = sum(threat.values())
+        if total == 0:                      # nothing has happened yet: an even game
+            return {t: 50 for t in threat}
         return {t: round(100 * v / total) for t, v in threat.items()}
 
     def chaos_index(self):
@@ -335,6 +337,8 @@ class MatchState:
         return {
             "minute": self.minute,
             "display_minute": self.display_minute(),
+            "home_team": self.names[self.home],
+            "away_team": self.names[self.away],
             "score": {"home": self.score[self.home], "away": self.score[self.away]},
             "teams": teams,
             "momentum_last_10_min": self.momentum(),

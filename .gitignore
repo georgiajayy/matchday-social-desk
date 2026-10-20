@@ -7,3 +7,6 @@
 # Python cache files
 __pycache__/
 *.pyc
+
+# Generated while running (cache, audio, test files)
+output/
