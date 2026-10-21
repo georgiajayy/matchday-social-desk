@@ -8,7 +8,7 @@ _The Synthetic Match Insights Engine for Premier League Studio_.
 
 ![Matchday Social Desk during a live replay](docs/screenshot.png)
 
-▶ **Demo video:** _add your YouTube link here_
+▶ **Demo video:** [Watch on YouTube](https://www.youtube.com/watch?v=mMBdd2H4dCs)
 
 ---
 
@@ -210,7 +210,7 @@ data/               The generated match
 - **Transparency.** Captions show whether they were fact-checked; the full-time audit trail shows every agent
   step, and the pundit shows which stats it checked.
 - **Original artwork.** The club crests are drawn in code (`assets/make_crests.py`). The squad headshots are
-  **AI-generated images of fictional people** and do not depict real players. Logos are kept out of shot.
+  The squad headshots and the intro illustrations in the demo video are **AI-generated images of fictional people** and do not depict real players. Logos are kept out of shot.
 
 ## What's next
 
