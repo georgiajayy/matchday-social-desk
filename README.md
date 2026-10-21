@@ -8,7 +8,7 @@ _The Synthetic Match Insights Engine for Premier League Studio_.
 
 ![Matchday Social Desk during a live replay](docs/screenshot.png)
 
-▶ **Demo video:** _add your YouTube link here_
+▶ **Demo video:** [Watch on YouTube](https://www.youtube.com/watch?v=mMBdd2H4dCs)
 
 ---
 
